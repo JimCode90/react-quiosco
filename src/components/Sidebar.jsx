@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '/img/logo.svg'
-import  { categorias } from "../data/categorias.js";
+
 import Categoria from "./Categoria.jsx";
 
 const Sidebar = () => {
